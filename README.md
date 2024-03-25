@@ -4,8 +4,10 @@ My Velog and E-mail and some potfolio!<br>
 <a href = "mailto:wnsrb2697@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
 <a href = "https://www.notion.so/e8f92c03bf29458e87a83102d261e179?v=5bfb7d501ea24f39806f972a1355f0fe&pvs=4"><img src="https://img.shields.io/badge/potfolio-000?style=flat&logo=Notion&logoColor=white"></a>
 <br><br>
-My language usage!<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningdol0711)
+My stat!<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ningdol0711&layout=compact&show_icons=true&theme=monokai" width=44% />
+<img src="https://github-readme-stats.vercel.app/api?username=ningdol0711&show_icons=true&theme=monokai" width=49% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ningdol0711&theme=monokai" width=94%/>
 <br><br>
 My Tech Stack<br>
 <img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
