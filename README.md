@@ -1,4 +1,4 @@
-## noob developer's profile<br>
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&text=noob%20developer%20name%20Lee_jun_gue&reversal=true&fontColor=7f00ff&fontSize=35&fontAlignY=39&fontAlign=36&animation=twinkling&rotate=-13)<br>
 My Velog and E-mail and some potfolio!<br>
 <a href = "https://velog.io/@ningdol0711/posts"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"></a>
 <a href = "mailto:wnsrb2697@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
