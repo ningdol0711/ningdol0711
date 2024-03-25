@@ -9,11 +9,12 @@ My stat!<br>
 <img src="https://github-readme-stats.vercel.app/api?username=ningdol0711&show_icons=true&theme=monokai" width=49% />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ningdol0711&theme=monokai" width=94%/>
 <br><br>
-My Tech Stack<br>
-<img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/-E34F26?style=flat&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/-1572B6?style=flat&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/-00599C?style=flat&logo=cplusplus&logoColor=white">
+My Tech Stack!!<br>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
 
 This is my first time making my github profile
 i will keep improve my profile! please keep an eye on me!
