@@ -1,5 +1,5 @@
 ### noob coder's profile
-<img alt="Static Badge" src="https://img.shields.io/badge/label?style=flat&logo=velog&logoColor=%2320C997&link=https%3A%2F%2Fvelog.io%2F%40ningdol0711%2Fposts">
+<img src="https://img.shields.io/badge/Python-20C997?style=for-the-badge&logo=velog&logoColor=white">
 
 <!--
 **ningdol0711/ningdol0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
