@@ -15,6 +15,8 @@ My Tech Stack!!<br>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=cplusplus&logoColor=white">
 <br><br>
 I'm using these tools!!<br>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
