@@ -6,7 +6,7 @@ My Velog and E-mail and some potfolio!<br>
 <br><br>
 My stat!<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ningdol0711&layout=compact&show_icons=true&theme=monokai" width=44% />
-<img src="https://github-readme-stats.vercel.app/api?username=ningdol0711&show_icons=true&theme=monokai" width=49% />
+<img src="https://github-readme-stats.vercel.app/api?username=ningdol0711&show_icons=true&theme=monokai" width=49.5% />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ningdol0711&theme=monokai" width=94%/>
 <br><br>
 My Tech Stack!!<br>
